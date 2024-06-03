@@ -1,5 +1,6 @@
 var Module = {
     onRuntimeInitialized() {
+        console.log("spot aashvi");
         setupSignLangApp();
     }
   };
